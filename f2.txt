@@ -15,4 +15,8 @@ git branch -M main
 git push -u origin main
 
 #3
-git remote set-url origin https://<token>@github.com/<username>/<repo>
+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
+
+git remote add origin <REMOTE_URL>
+git remote set-url origin https://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@github.com/MOHSINICSD/testing_git.git
+git remote set-url origin https://github.com/MOHSINICSD/testing_git.git
